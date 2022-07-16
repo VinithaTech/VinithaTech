@@ -22,4 +22,6 @@
 <div align="left"><img src="https://github-readme-stats.vercel.app/api?username=VinithaTech&show_icons=true&count_private=true&hide_border=true" align="left" /></div>  <br/><br/><br/><br/>
 <div align="left"><img src="https://github-readme-streak-stats.herokuapp.com/?user=VinithaTech&" align="left" /></div>  
 <br/><br/><br/><br/>
+<p>
 <div align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=VinithaTech&show_icons=true&locale=en&layout=compact" align="left" /></div>  
+</p>
