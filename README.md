@@ -5,8 +5,8 @@
 <h1 align="center">Hi 👋, I'm Vinitha</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
-<br/><br/>
-<img align="right" src="https://img.freepik.com/premium-vector/cute-girl-working-computer-cartoon-vector-icon-illustration-people-technology-icon-concept-isolated-premium-vector-flat-cartoon-style_138676-1444.jpg" width="400"/>
+<br/>
+<img align="right" src="https://img.freepik.com/premium-vector/cute-girl-working-computer-cartoon-vector-icon-illustration-people-technology-icon-concept-isolated-premium-vector-flat-cartoon-style_138676-1444.jpg" width="300"/>
 
 - 🔭 I’m currently working on Xerago **Acquigo**
 
